@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import Generator from './components/Generator'
 import Workout from './components/Workout'
 import { generateWorkout } from './utils/functions'
